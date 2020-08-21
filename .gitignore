@@ -30,4 +30,5 @@
 *.exe
 *.out
 *.app
-*.hello_world
+
+hello_world
